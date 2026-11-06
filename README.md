@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá, sou o bba201 👋
+
+Bem vindo ao meu portefolio de eletrónica e programação! 
+Aqui partilho os meus projetos que vou desenvolvendo à medida que aprendo.
+
+## 🚀 Os meus Projetos
+
+
+
 
 <!--
 **bba201/bba201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
