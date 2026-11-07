@@ -4,6 +4,8 @@ Bem vindo ao meu portefolio de eletrónica e programação!
 Aqui partilho os meus projetos que vou desenvolvendo à medida que aprendo.
 
 ## 🚀 Os meus Projetos
+* Cronometro com arduino uno (https://github.com/bba201/chronometer)
+    Este é um cronômetro digital com ecrã LCD I2C, botões físicos e controlo de estados não bloqueante usando `millis()`.
 
 
 
