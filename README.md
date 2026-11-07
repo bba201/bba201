@@ -1,4 +1,4 @@
-## Olá, sou o bba201 👋
+## Hello, I'm bba201 👋
 
 
 Welcome to my portefolio of eletrónics and coding! 
