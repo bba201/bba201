@@ -1,11 +1,12 @@
 ## Olá, sou o bba201 👋
 
-Bem vindo ao meu portefolio de eletrónica e programação! 
-Aqui partilho os meus projetos que vou desenvolvendo à medida que aprendo.
+
+Welcome to my portefolio of eletrónics and coding! 
+Here I share my projects that I develop as I learn.
 
 ## 🚀 Os meus Projetos
-* Cronometro com arduino uno (https://github.com/bba201/chronometer)
-    Este é um cronômetro digital com ecrã LCD I2C, botões físicos e controlo de estados não bloqueante usando `millis()`.
+* Chronometer with arduino uno (https://github.com/bba201/chronometer)
+    This is a digital chronometer with a LCD I2C display, phisical buttons and state control partially non-blocking using `millis()`.
 
 
 
