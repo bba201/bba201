@@ -5,8 +5,14 @@ Welcome to my portefolio of eletrónics and coding!
 Here I share my projects that I develop as I learn.
 
 ## 🚀 My projects
+
 * Chronometer with arduino uno (https://github.com/bba201/chronometer)
     This is a digital chronometer with a LCD I2C display, phisical buttons and state control partially non-blocking using `millis()`.
+  
+  * Buttons in parallel with led
+https://github.com/user-attachments/assets/f6989df5-53a2-4e56-b17c-3f8af11cadb2
+
+
 
 
 
