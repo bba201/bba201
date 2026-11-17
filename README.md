@@ -22,8 +22,12 @@ Here I share my projects that I develop as I learn.
   Code: https://github.com/bba201/chill_o_meter
   Vídeo: https://youtube.com/shorts/p-tPOPYmsYU
 
-* Variable led with light.
-  Components: 3x phototransistors, 3x colored gels, 3x 4.7 kΩ resistors, 1x rgb led, 3x 1kΩ resistors. Description: In this project I used the phototransistors with different
+* Servo motor rotaton with analog values from a potentiometer.
+  Components: 2x Capacitors, 1x potentiometer, 1x servo motor with arm. Description of the project: On this project, I used the analog values from a potentiometer as I rotated it to rotate an arm attache to a servo motor.
+  Code: https://github.com/bba201/mood_cue
+  Vídeo: https://github.com/user-attachments/assets/db1c4bd0-5bc6-4959-84db-ef76e2ac5c2c
+
+ 
 
 
 
