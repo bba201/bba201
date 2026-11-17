@@ -23,7 +23,7 @@ Here I share my projects that I develop as I learn.
   Vídeo: https://youtube.com/shorts/p-tPOPYmsYU
 
 * Variable led with light.
-  Components: 3x phototransistors, 3x colored gels, 3x 4.7 kΩ resistors, 1x rgb led, 3x 1kΩ resistors. Description: In this project I used
+  Components: 3x phototransistors, 3x colored gels, 3x 4.7 kΩ resistors, 1x rgb led, 3x 1kΩ resistors. Description: In this project I used the phototransistors with different
 
 
 
